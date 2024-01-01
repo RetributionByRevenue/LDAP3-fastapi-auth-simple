@@ -1,4 +1,4 @@
-<img=https://github.com/RetributionByRevenue/LDAP3-fastapi-auth-simple/blob/main/Screenshot%202023-12-31%20194343.png?raw=true>
+<img=https://raw.githubusercontent.com/RetributionByRevenue/LDAP3-fastapi-auth-simple/main/Screenshot%202023-12-31%20194441.png>
 
 1.  **LDAP_AUTH Function:**
     
