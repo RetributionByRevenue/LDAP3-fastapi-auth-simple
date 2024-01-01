@@ -1,3 +1,5 @@
+<img=https://github.com/RetributionByRevenue/LDAP3-fastapi-auth-simple/blob/main/Screenshot%202023-12-31%20194343.png?raw=true>
+
 1.  **LDAP_AUTH Function:**
     
     -   The `LDAP_AUTH` function takes three parameters: `domain`, `username`, and `password`.
