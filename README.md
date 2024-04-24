@@ -1,3 +1,5 @@
+**Please consider this project to see domain controller auth using sessions and sqlite db
+https://github.com/RetributionByRevenue/fastapi-sessions-domaincontroler
 <img src=https://raw.githubusercontent.com/RetributionByRevenue/LDAP3-fastapi-auth-simple/main/Screenshot%202023-12-31%20194343.png>
 <img src=https://raw.githubusercontent.com/RetributionByRevenue/LDAP3-fastapi-auth-simple/main/Screenshot%202023-12-31%20194118.png>
 <img src=https://raw.githubusercontent.com/RetributionByRevenue/LDAP3-fastapi-auth-simple/main/Screenshot%202023-12-31%20194441.png>
